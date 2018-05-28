@@ -419,3 +419,4 @@ Next you want to configure Jenkins to create a build each time a version of your
 > This concludes part 3 of the lab. You should now have configured Jenkins to run task periodically and on a git push.
 
 > **Congratulations! You finished the Lab Maven & Jenkins**
+"# javatraining" 
